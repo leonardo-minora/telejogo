@@ -1,5 +1,5 @@
+# exemplo de modifiação direto no codespace
 import pygame
-
 
 # movendo a bola
 def bola_mover(bola, velocidade, delta, jogadores):
