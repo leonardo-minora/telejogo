@@ -1,5 +1,7 @@
 # Infoweb Turma 2022 - FLA Game
 
+[Sintaxe markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Informações do jogo
 - *jogo*: Telejogo
 - *Desenvolvedores*: [Leonardo Minora](https://github.com/leonardo-minora)
